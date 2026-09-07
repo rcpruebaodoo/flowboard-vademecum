@@ -1,0 +1,43 @@
+{
+  "schema": "flowboard.vademecum.index.v1",
+  "version": "2026.09.07.1",
+  "updated_at": "2026-09-07T14:00:00-03:00",
+  "count": 5,
+  "drugs": [
+    {
+      "id": "remifentanilo",
+      "name": "Remifentanilo",
+      "file": "drugs/remifentanilo.json",
+      "status": "anmat_validated_cima_iqb_pending",
+      "updated_at": "2026-09-07"
+    },
+    {
+      "id": "fentanilo",
+      "name": "Fentanilo",
+      "file": "drugs/fentanilo.json",
+      "status": "anmat_validated_cima_iqb_pending",
+      "updated_at": "2026-09-07"
+    },
+    {
+      "id": "morfina",
+      "name": "Morfina",
+      "file": "drugs/morfina.json",
+      "status": "anmat_validated_cima_iqb_pending",
+      "updated_at": "2026-09-07"
+    },
+    {
+      "id": "tramadol",
+      "name": "Tramadol",
+      "file": "drugs/tramadol.json",
+      "status": "anmat_validated_cima_iqb_pending",
+      "updated_at": "2026-09-07"
+    },
+    {
+      "id": "dexmedetomidina",
+      "name": "Dexmedetomidina",
+      "file": "drugs/dexmedetomidina.json",
+      "status": "anmat_validated_cima_iqb_pending",
+      "updated_at": "2026-09-07"
+    }
+  ]
+}
