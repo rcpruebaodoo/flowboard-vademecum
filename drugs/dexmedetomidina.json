@@ -1,0 +1,169 @@
+{
+  "schema": "flowboard.vademecum.drug.v1",
+  "id": "dexmedetomidina",
+  "name": "Dexmedetomidina",
+  "updated_at": "2026-09-07",
+  "status": "anmat_validated_cima_iqb_pending",
+  "verification": {
+    "anmat": {
+      "status": "VALIDATED",
+      "date": "2026-09-07"
+    },
+    "cima": {
+      "status": "pending"
+    },
+    "iqb": {
+      "status": "pending"
+    }
+  },
+  "argentina": {
+    "selected_presentation": {
+      "certificate": "58731",
+      "generic": "DEXMEDETOMIDINA 200 MCG / 2 ML",
+      "gtin": "07795336294676",
+      "laboratory": "LABORATORIOS RICHET S A",
+      "pharmaceutical_form": "SOLUCION INYECTABLE",
+      "presentation": "25 FRASCO AMPOLLA por 2 ML (USO HOSPITALARIO EXCLUSIVO)",
+      "trade_name": "DEXMEDETOMIDINA RICHET"
+    },
+    "detail": {
+      "certificate": "58731",
+      "dispensing_condition": "BAJO RECETA",
+      "generic_name": "DEXMEDETOMIDINA",
+      "gtin": "07795336294676",
+      "laboratory": "LABORATORIOS RICHET S A",
+      "pharmaceutical_form": "SOLUCION INYECTABLE",
+      "presentation": "25 FRASCO AMPOLLA por 2 ML (USO HOSPITALARIO EXCLUSIVO)",
+      "route": "ENDOVENOSA",
+      "trade_name": "DEXMEDETOMIDINA RICHET",
+      "troquel": "652497"
+    },
+    "presentations_visible": [
+      {
+        "certificate": "58731",
+        "generic": "DEXMEDETOMIDINA 200 MCG / 2 ML",
+        "gtin": "07795336294478",
+        "laboratory": "LABORATORIOS RICHET S A",
+        "pharmaceutical_form": "SOLUCION INYECTABLE",
+        "presentation": "5 FRASCO AMPOLLA por 2 ML",
+        "trade_name": "DEXMEDETOMIDINA RICHET"
+      },
+      {
+        "certificate": "58885",
+        "generic": "DEXMEDETOMIDINA CLORHIDRATO 118 MCG / ML",
+        "gtin": "07798016552561",
+        "laboratory": "PRODUCTOS FARMACEUTICOS DR GRAY S ACOM IND",
+        "pharmaceutical_form": "SOLUCION INYECTABLE PARA INFUSION",
+        "presentation": "5 FRASCO AMPOLLA por 2 ML",
+        "trade_name": "DEXMEDETOMIDINA GRAY"
+      },
+      {
+        "certificate": "57718",
+        "generic": "DEXMEDETOMIDINA 100 MCG / ML",
+        "gtin": "07792796485040",
+        "laboratory": "INSTITUTO BIOLOGICO ARGENTINO S A I C",
+        "pharmaceutical_form": "SOLUCION INYECTABLE PARA INFUSION",
+        "presentation": "25 FRASCO AMPOLLA por 2 ML",
+        "trade_name": "VALERTROPINA"
+      },
+      {
+        "certificate": "58751",
+        "generic": "DEXMEDETOMIDINA 200 MCG / 2 ML",
+        "gtin": "07795376424361",
+        "laboratory": "GOBBI NOVAG S.A.",
+        "pharmaceutical_form": "SOLUCION INYECTABLE",
+        "presentation": "50 AMPOLLA por 2 ML",
+        "trade_name": "DEXMENOVAG"
+      },
+      {
+        "certificate": "58731",
+        "generic": "DEXMEDETOMIDINA 200 MCG / 2 ML",
+        "gtin": "07795336294676",
+        "laboratory": "LABORATORIOS RICHET S A",
+        "pharmaceutical_form": "SOLUCION INYECTABLE",
+        "presentation": "25 FRASCO AMPOLLA por 2 ML (USO HOSPITALARIO EXCLUSIVO)",
+        "trade_name": "DEXMEDETOMIDINA RICHET"
+      },
+      {
+        "certificate": "58885",
+        "generic": "DEXMEDETOMIDINA CLORHIDRATO 118 MCG / ML",
+        "gtin": "07798016552806",
+        "laboratory": "PRODUCTOS FARMACEUTICOS DR GRAY S ACOM IND",
+        "pharmaceutical_form": "SOLUCION INYECTABLE PARA INFUSION",
+        "presentation": "25 FRASCO AMPOLLA por 2 ML",
+        "trade_name": "DEXMEDETOMIDINA GRAY"
+      },
+      {
+        "certificate": "58885",
+        "generic": "DEXMEDETOMIDINA CLORHIDRATO 118 MCG / ML",
+        "gtin": "07798016552820",
+        "laboratory": "PRODUCTOS FARMACEUTICOS DR GRAY S ACOM IND",
+        "pharmaceutical_form": "SOLUCION INYECTABLE PARA INFUSION",
+        "presentation": "100 FRASCO AMPOLLA por 2 ML",
+        "trade_name": "DEXMEDETOMIDINA GRAY"
+      },
+      {
+        "certificate": "58885",
+        "generic": "DEXMEDETOMIDINA CLORHIDRATO 118 MCG / ML",
+        "gtin": "07798016552813",
+        "laboratory": "PRODUCTOS FARMACEUTICOS DR GRAY S ACOM IND",
+        "pharmaceutical_form": "SOLUCION INYECTABLE PARA INFUSION",
+        "presentation": "50 FRASCO AMPOLLA por 2 ML",
+        "trade_name": "DEXMEDETOMIDINA GRAY"
+      },
+      {
+        "certificate": "58731",
+        "generic": "DEXMEDETOMIDINA 200 MCG / 2 ML",
+        "gtin": "07795336295086",
+        "laboratory": "LABORATORIOS RICHET S A",
+        "pharmaceutical_form": "SOLUCION INYECTABLE",
+        "presentation": "50 FRASCO AMPOLLA por 2 ML (USO HOSPITALARIO EXCLUSIVO)",
+        "trade_name": "DEXMEDETOMIDINA RICHET"
+      },
+      {
+        "certificate": "58731",
+        "generic": "DEXMEDETOMIDINA 200 MCG / 2 ML",
+        "gtin": "07795336295987",
+        "laboratory": "LABORATORIOS RICHET S A",
+        "pharmaceutical_form": "SOLUCION INYECTABLE",
+        "presentation": "5 AMPOLLA por 2 ML",
+        "trade_name": "DEXMEDETOMIDINA RICHET"
+      }
+    ],
+    "result_count_visible": 10,
+    "result_count_relevant": 10,
+    "total_size_vnm": 11,
+    "prospect": {
+      "absolute_url": "https://servicios.pami.org.ar/vademecum/zkau/view/z_8bd/dwnmed-0/qqo1/22653.07.dexmedetomidina%20T4%20-%2020-08-2025.pdf",
+      "captured_at": "2026-09-07T15:51:28.290Z",
+      "relative_url": "/vademecum/zkau/view/z_8bd/dwnmed-0/qqo1/22653.07.dexmedetomidina%20T4%20-%2020-08-2025.pdf"
+    }
+  },
+  "clinical": {
+    "class": null,
+    "mechanism": null,
+    "pharmacodynamics": null,
+    "pharmacokinetics": null,
+    "dosing": null,
+    "preparation": null,
+    "metabolism": null,
+    "elimination": null,
+    "adverse_effects": null,
+    "icu_alerts": null,
+    "renal_adjustment": null,
+    "hepatic_adjustment": null,
+    "interactions": null
+  },
+  "flowboard": {
+    "operational_preset": null,
+    "infographics": [],
+    "expanded_card_ready": false
+  },
+  "sources": [
+    {
+      "name": "ANMAT/PAMI VNM",
+      "status": "validated",
+      "verified_at": "2026-09-07"
+    }
+  ]
+}

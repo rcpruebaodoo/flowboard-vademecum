@@ -1,0 +1,169 @@
+{
+  "schema": "flowboard.vademecum.drug.v1",
+  "id": "remifentanilo",
+  "name": "Remifentanilo",
+  "updated_at": "2026-09-07",
+  "status": "anmat_validated_cima_iqb_pending",
+  "verification": {
+    "anmat": {
+      "status": "VALIDATED",
+      "date": "2026-09-07"
+    },
+    "cima": {
+      "status": "pending"
+    },
+    "iqb": {
+      "status": "pending"
+    }
+  },
+  "argentina": {
+    "selected_presentation": {
+      "certificate": "53359",
+      "generic": "REMIFENTANILO COMO CLORHIDRATO 5 MG",
+      "gtin": "07793569005021",
+      "laboratory": "LABORATORIO INTERNACIONAL ARGENTINO S.A.",
+      "pharmaceutical_form": "POLVO LIOFILIZADO PARA INYECTABLE",
+      "presentation": "25 FRASCO AMPOLLA por 5 MG",
+      "trade_name": "FADA REMIFENTANILO"
+    },
+    "detail": {
+      "certificate": "53359",
+      "dispensing_condition": "BAJO RECETA OFICIAL Y DECRETO",
+      "generic_name": "REMIFENTANILO COMO CLORHIDRATO",
+      "gtin": "07793569005021",
+      "laboratory": "LABORATORIO INTERNACIONAL ARGENTINO S.A.",
+      "pharmaceutical_form": "POLVO LIOFILIZADO PARA INYECTABLE",
+      "presentation": "25 FRASCO AMPOLLA por 5 MG",
+      "route": "ENDOVENOSA",
+      "trade_name": "FADA REMIFENTANILO",
+      "troquel": "559839"
+    },
+    "presentations_visible": [
+      {
+        "certificate": "53359",
+        "generic": "REMIFENTANILO COMO CLORHIDRATO 5 MG",
+        "gtin": "07793569005021",
+        "laboratory": "LABORATORIO INTERNACIONAL ARGENTINO S.A.",
+        "pharmaceutical_form": "POLVO LIOFILIZADO PARA INYECTABLE",
+        "presentation": "25 FRASCO AMPOLLA por 5 MG",
+        "trade_name": "FADA REMIFENTANILO"
+      },
+      {
+        "certificate": "52831",
+        "generic": "REMIFENTANILO BASE (COMO CLORHIDRATO) 5 MG",
+        "gtin": "07798173940072",
+        "laboratory": "M R PHARMA S A",
+        "pharmaceutical_form": "POLVO LIOFILIZADO PARA INYECTABLE",
+        "presentation": "5 FRASCO AMPOLLA por 5 MG",
+        "trade_name": "REMICIT"
+      },
+      {
+        "certificate": "53254",
+        "generic": "REMIFENTANILO COMO CLORHIDRATO 5 MG",
+        "gtin": "07798178580235",
+        "laboratory": "INSTITUTO BIOLOGICO CONTEMPORANEO S.A.",
+        "pharmaceutical_form": "POLVO LIOFILIZADO PARA INYECTABLE",
+        "presentation": "25 FRASCO AMPOLLA por 5 MG",
+        "trade_name": "REMIFENTANILO PHARMAVIAL"
+      },
+      {
+        "certificate": "52831",
+        "generic": "REMIFENTANILO BASE (COMO CLORHIDRATO) 5 MG",
+        "gtin": "07798173940096",
+        "laboratory": "M R PHARMA S A",
+        "pharmaceutical_form": "POLVO LIOFILIZADO PARA INYECTABLE",
+        "presentation": "25 FRASCO AMPOLLA por 5 MG",
+        "trade_name": "REMICIT"
+      },
+      {
+        "certificate": "51741",
+        "generic": "REMIFENTANILO CLORHIDRATO 5.484 MG",
+        "gtin": "07795347971863",
+        "laboratory": "DR LAZAR Y CIA S A QUIMICA E INDUSTRIAL",
+        "pharmaceutical_form": "POLVO LIOFILIZADO PARA INYECTABLE",
+        "presentation": "5 FRASCO AMPOLLA por 5 MG",
+        "trade_name": "RESTINIL"
+      },
+      {
+        "certificate": "52836",
+        "generic": "REMIFENTANILO BASE (COMO CLORHIDRATO) 5 MG",
+        "gtin": "07798016551878",
+        "laboratory": "PRODUCTOS FARMACEUTICOS DR GRAY S ACOM IND",
+        "pharmaceutical_form": "POLVO LIOFILIZADO PARA INYECTABLE",
+        "presentation": "5 FRASCO AMPOLLA por 5 MG",
+        "trade_name": "REMIFENTANILO GRAY"
+      },
+      {
+        "certificate": "52836",
+        "generic": "REMIFENTANILO BASE (COMO CLORHIDRATO) 2 MG",
+        "gtin": "07798016551885",
+        "laboratory": "PRODUCTOS FARMACEUTICOS DR GRAY S ACOM IND",
+        "pharmaceutical_form": "POLVO LIOFILIZADO PARA INYECTABLE",
+        "presentation": "5 FRASCO AMPOLLA por 2 MG",
+        "trade_name": "REMIFENTANILO GRAY"
+      },
+      {
+        "certificate": "59080",
+        "generic": "REMIFENTANILO 5 MG",
+        "gtin": "07798091910614",
+        "laboratory": "LABORATORIOS IMA S A I C",
+        "pharmaceutical_form": "POLVO LIOFILIZADO PARA INYECTABLE",
+        "presentation": "5 FRASCO AMPOLLA por 5 MG",
+        "trade_name": "REMIFAS"
+      },
+      {
+        "certificate": "53216",
+        "generic": "REMIFENTANILO 5 MG",
+        "gtin": "07798007804082",
+        "laboratory": "FRESENIUS KABI S.A.",
+        "pharmaceutical_form": "POLVO LIOFILIZADO PARA INYECTABLE",
+        "presentation": "5 FRASCO AMPOLLA por 5 MG",
+        "trade_name": "REMIFENTANILO KABI"
+      },
+      {
+        "certificate": "53982",
+        "generic": "REMIFENTANILO 5 MG",
+        "gtin": "07798162050126",
+        "laboratory": "SCOTT PHARMA S.A.",
+        "pharmaceutical_form": "POLVO LIOFILIZADO PARA INYECTABLE",
+        "presentation": "FRASCO AMPOLLA por 5 UNIDADES",
+        "trade_name": "REDORMIN"
+      }
+    ],
+    "result_count_visible": 10,
+    "result_count_relevant": null,
+    "total_size_vnm": 14,
+    "prospect": {
+      "absolute_url": "https://servicios.pami.org.ar/vademecum/zkau/view/z_tad/dwnmed-0/umh1/MPR06839_1.pdf",
+      "captured_at": "2026-09-07T15:31:35.253Z",
+      "relative_url": "/vademecum/zkau/view/z_tad/dwnmed-0/umh1/MPR06839_1.pdf"
+    }
+  },
+  "clinical": {
+    "class": null,
+    "mechanism": null,
+    "pharmacodynamics": null,
+    "pharmacokinetics": null,
+    "dosing": null,
+    "preparation": null,
+    "metabolism": null,
+    "elimination": null,
+    "adverse_effects": null,
+    "icu_alerts": null,
+    "renal_adjustment": null,
+    "hepatic_adjustment": null,
+    "interactions": null
+  },
+  "flowboard": {
+    "operational_preset": null,
+    "infographics": [],
+    "expanded_card_ready": false
+  },
+  "sources": [
+    {
+      "name": "ANMAT/PAMI VNM",
+      "status": "validated",
+      "verified_at": "2026-09-07"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "schema": "flowboard.vademecum.drug.v1",
+  "id": "morfina",
+  "name": "Morfina",
+  "updated_at": "2026-09-07",
+  "status": "anmat_validated_cima_iqb_pending",
+  "verification": {
+    "anmat": {
+      "status": "VALIDATED",
+      "date": "2026-09-07"
+    },
+    "cima": {
+      "status": "pending"
+    },
+    "iqb": {
+      "status": "pending"
+    }
+  },
+  "argentina": {
+    "selected_presentation": {
+      "certificate": "38723",
+      "generic": "MORFINA CLORHIDRATO TRIHIDRATO 10 MG / 1 ML",
+      "gtin": "07795375600100",
+      "laboratory": "Soubeiran Chobet S.R.L.",
+      "pharmaceutical_form": "SOLUCION INYECTABLE",
+      "presentation": "1 AMPOLLA por 1 ML",
+      "trade_name": "NEOCALMANS"
+    },
+    "detail": {
+      "certificate": "38723",
+      "dispensing_condition": "BAJO RECETA OFICIAL Y DECRETO",
+      "generic_name": "MORFINA CLORHIDRATO TRIHIDRATO",
+      "gtin": "07795375600100",
+      "laboratory": "Soubeiran Chobet S.R.L.",
+      "pharmaceutical_form": "SOLUCION INYECTABLE",
+      "presentation": "1 AMPOLLA por 1 ML",
+      "route": "ENDOVENOSA",
+      "trade_name": "NEOCALMANS",
+      "troquel": "406729"
+    },
+    "presentations_visible": [
+      {
+        "certificate": "57439",
+        "generic": "MORFINA CLORHIDRATO TRIHIDRATO 11.68 MG",
+        "gtin": "07798181660177",
+        "laboratory": "LABORATORIO INDUSTRIAL FARMACEUTICO SOCIEDAD DEL ESTADO",
+        "pharmaceutical_form": "COMPRIMIDO",
+        "presentation": "BLISTER por 100 UNIDADES",
+        "trade_name": "MORFINA CLORHIDRATO LIF"
+      },
+      {
+        "certificate": "38723",
+        "generic": "MORFINA 20 MG",
+        "gtin": "07795375000207",
+        "laboratory": "Soubeiran Chobet S.R.L.",
+        "pharmaceutical_form": "SUPOSITORIO",
+        "presentation": "ENVASE por 10 UNIDADES",
+        "trade_name": "NEOCALMANS"
+      },
+      {
+        "certificate": "38723",
+        "generic": "MORFINA 30 MG",
+        "gtin": "07795375002126",
+        "laboratory": "Soubeiran Chobet S.R.L.",
+        "pharmaceutical_form": "SUPOSITORIO",
+        "presentation": "ENVASE por 10 UNIDADES",
+        "trade_name": "NEOCALMANS"
+      },
+      {
+        "certificate": "57439",
+        "generic": "MORFINA CLORHIDRATO TRIHIDRATO 11.68 MG",
+        "gtin": "07798181660139",
+        "laboratory": "LABORATORIO INDUSTRIAL FARMACEUTICO SOCIEDAD DEL ESTADO",
+        "pharmaceutical_form": "COMPRIMIDO",
+        "presentation": "BLISTER por 500 UNIDADES",
+        "trade_name": "MORFINA CLORHIDRATO LIF"
+      },
+      {
+        "certificate": "38723",
+        "generic": "MORFINA CLORHIDRATO TRIHIDRATO 10 MG / 1 ML",
+        "gtin": "07795375600100",
+        "laboratory": "Soubeiran Chobet S.R.L.",
+        "pharmaceutical_form": "SOLUCION INYECTABLE",
+        "presentation": "1 AMPOLLA por 1 ML",
+        "trade_name": "NEOCALMANS"
+      },
+      {
+        "certificate": "38723",
+        "generic": "MORFINA CLORHIDRATO TRIHIDRATO 20 MG / 1 ML",
+        "gtin": "07795375600131",
+        "laboratory": "Soubeiran Chobet S.R.L.",
+        "pharmaceutical_form": "SOLUCION INYECTABLE",
+        "presentation": "1 AMPOLLA por 1 ML",
+        "trade_name": "NEOCALMANS"
+      },
+      {
+        "certificate": "38723",
+        "generic": "MORFINA SULFATO 2 MG / 2 ML",
+        "gtin": "07795375600865",
+        "laboratory": "Soubeiran Chobet S.R.L.",
+        "pharmaceutical_form": "SOLUCION INYECTABLE",
+        "presentation": "1 AMPOLLA por 2 ML",
+        "trade_name": "NEOCALMANS IT 1 MG/ML"
+      },
+      {
+        "certificate": "38723",
+        "generic": "MORFINA SULFATO 0.2 MG/ML",
+        "gtin": "07795375000566",
+        "laboratory": "Soubeiran Chobet S.R.L.",
+        "pharmaceutical_form": "SOLUCION INYECTABLE",
+        "presentation": "1 AMPOLLA por 1 ML",
+        "trade_name": "NEOCALMANS IT 0.2 MG/ML"
+      },
+      {
+        "certificate": "38723",
+        "generic": "MORFINA CLORHIDRATO TRIHIDRATO 10 MG",
+        "gtin": "07795375600780",
+        "laboratory": "Soubeiran Chobet S.R.L.",
+        "pharmaceutical_form": "COMPRIMIDO DE LIBERACIÓN PROLONGADA",
+        "presentation": "ENVASE por 20 UNIDADES",
+        "trade_name": "NEOCALMANS RETARD"
+      },
+      {
+        "certificate": "38723",
+        "generic": "MORFINA CLORHIDRATO TRIHIDRATO 30 MG",
+        "gtin": "07795375000078",
+        "laboratory": "Soubeiran Chobet S.R.L.",
+        "pharmaceutical_form": "COMPRIMIDO RANURADO",
+        "presentation": "1 FRASCO por 20 UNIDADES",
+        "trade_name": "NEOCALMANS"
+      }
+    ],
+    "result_count_visible": 10,
+    "result_count_relevant": null,
+    "total_size_vnm": 30,
+    "prospect": {
+      "absolute_url": "https://servicios.pami.org.ar/vademecum/zkau/view/z_xad/dwnmed-0/1ns/Neocalmans_Iny%20propecto.pdf",
+      "captured_at": "2026-09-07T15:32:34.259Z",
+      "relative_url": "/vademecum/zkau/view/z_xad/dwnmed-0/1ns/Neocalmans_Iny%20propecto.pdf"
+    }
+  },
+  "clinical": {
+    "class": null,
+    "mechanism": null,
+    "pharmacodynamics": null,
+    "pharmacokinetics": null,
+    "dosing": null,
+    "preparation": null,
+    "metabolism": null,
+    "elimination": null,
+    "adverse_effects": null,
+    "icu_alerts": null,
+    "renal_adjustment": null,
+    "hepatic_adjustment": null,
+    "interactions": null
+  },
+  "flowboard": {
+    "operational_preset": null,
+    "infographics": [],
+    "expanded_card_ready": false
+  },
+  "sources": [
+    {
+      "name": "ANMAT/PAMI VNM",
+      "status": "validated",
+      "verified_at": "2026-09-07"
+    }
+  ]
+}

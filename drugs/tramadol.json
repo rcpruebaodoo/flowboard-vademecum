@@ -1,0 +1,160 @@
+{
+  "schema": "flowboard.vademecum.drug.v1",
+  "id": "tramadol",
+  "name": "Tramadol",
+  "updated_at": "2026-09-07",
+  "status": "anmat_validated_cima_iqb_pending",
+  "verification": {
+    "anmat": {
+      "status": "VALIDATED",
+      "date": "2026-09-07"
+    },
+    "cima": {
+      "status": "pending"
+    },
+    "iqb": {
+      "status": "pending"
+    }
+  },
+  "argentina": {
+    "selected_presentation": {
+      "certificate": "54499",
+      "generic": "TRAMADOL CLORHIDRATO 100 MG / 2 ML",
+      "gtin": "07793569003485",
+      "laboratory": "LABORATORIO INTERNACIONAL ARGENTINO S.A.",
+      "pharmaceutical_form": "INYECTABLE PARA PERFUSION",
+      "presentation": "25 AMPOLLA por 100 MG / 2 ML",
+      "trade_name": "FADA TRAMADOL"
+    },
+    "detail": {
+      "certificate": "54499",
+      "dispensing_condition": "BAJO RECETA ARCHIVADA",
+      "generic_name": "TRAMADOL CLORHIDRATO",
+      "gtin": "07793569003485",
+      "laboratory": "LABORATORIO INTERNACIONAL ARGENTINO S.A.",
+      "pharmaceutical_form": "INYECTABLE PARA PERFUSION",
+      "presentation": "25 AMPOLLA por 100 MG / 2 ML",
+      "route": "ENDOVENOSA / INTRAMUSCULAR",
+      "trade_name": "FADA TRAMADOL",
+      "troquel": "579084"
+    },
+    "presentations_visible": [
+      {
+        "certificate": "38641",
+        "generic": "TRAMADOL CLORHIDRATO 50 MG",
+        "gtin": "07791171000281",
+        "laboratory": "FINADIET S.A.COM IND FIN E INMOB",
+        "pharmaceutical_form": "COMPRIMIDO",
+        "presentation": "BLISTER por 6 UNIDADES",
+        "trade_name": "CALMADOR"
+      },
+      {
+        "certificate": "57939",
+        "generic": "TRAMADOL CLORHIDRATO 50 MG",
+        "gtin": "07795375000603",
+        "laboratory": "Soubeiran Chobet S.R.L.",
+        "pharmaceutical_form": "COMPRIMIDO",
+        "presentation": "BLISTER por 10 UNIDADES",
+        "trade_name": "ULTRACALMANS"
+      },
+      {
+        "certificate": "38958",
+        "generic": "TRAMADOL CLORHIDRATO 50 MG",
+        "gtin": "07795372460219",
+        "laboratory": "LABORATORIO VANNIER S.A.",
+        "pharmaceutical_form": "CAPSULA",
+        "presentation": "BLISTER por 10 UNIDADES",
+        "trade_name": "TRAMAL"
+      },
+      {
+        "certificate": "54499",
+        "generic": "TRAMADOL CLORHIDRATO 100 MG / 2 ML",
+        "gtin": "07793569003485",
+        "laboratory": "LABORATORIO INTERNACIONAL ARGENTINO S.A.",
+        "pharmaceutical_form": "INYECTABLE PARA PERFUSION",
+        "presentation": "25 AMPOLLA por 100 MG / 2 ML",
+        "trade_name": "FADA TRAMADOL"
+      },
+      {
+        "certificate": "38958",
+        "generic": "TRAMADOL CLORHIDRATO 100 MG",
+        "gtin": "07795372460189",
+        "laboratory": "LABORATORIO VANNIER S.A.",
+        "pharmaceutical_form": "COMPRIMIDO DE LIBERACIÓN PROLONGADA",
+        "presentation": "BLISTER por 10 UNIDADES",
+        "trade_name": "TRAMAL LONG"
+      },
+      {
+        "certificate": "38958",
+        "generic": "TRAMADOL CLORHIDRATO 50 MG",
+        "gtin": "07795372460288",
+        "laboratory": "LABORATORIO VANNIER S.A.",
+        "pharmaceutical_form": "CAPSULA",
+        "presentation": "BLISTER por 20 UNIDADES",
+        "trade_name": "TRAMAL"
+      },
+      {
+        "certificate": "57939",
+        "generic": "TRAMADOL CLORHIDRATO 50 MG",
+        "gtin": "07795375000610",
+        "laboratory": "Soubeiran Chobet S.R.L.",
+        "pharmaceutical_form": "COMPRIMIDO",
+        "presentation": "BLISTER por 20 UNIDADES",
+        "trade_name": "ULTRACALMANS"
+      },
+      {
+        "certificate": "38958",
+        "generic": "TRAMADOL CLORHIDRATO 100 MG / ML",
+        "gtin": "07795372460202",
+        "laboratory": "LABORATORIO VANNIER S.A.",
+        "pharmaceutical_form": "SOLUCIÓN PARA GOTAS",
+        "presentation": "1 FRASCO GOTERO por 10 ML",
+        "trade_name": "TRAMAL"
+      },
+      {
+        "certificate": "50666",
+        "generic": "PARACETAMOL 325 MG + TRAMADOL CLORHIDRATO 37.5 MG",
+        "gtin": "07795372460196",
+        "laboratory": "LABORATORIO VANNIER S.A.",
+        "pharmaceutical_form": "COMPRIMIDO RECUBIERTO",
+        "presentation": "BLISTER por 20 UNIDADES",
+        "trade_name": "TRAMAL PLUS"
+      }
+    ],
+    "result_count_visible": 9,
+    "result_count_relevant": null,
+    "total_size_vnm": 117,
+    "prospect": {
+      "absolute_url": "https://servicios.pami.org.ar/vademecum/zkau/view/z_zad/dwnmed-0/0th/001-.2024-PM%20-%20CAMBIO%20LOGO%20ABBOTT%20Y%20DT%20-%20FADA%20TRAMADOL.pdf",
+      "captured_at": "2026-09-07T15:33:03.273Z",
+      "relative_url": "/vademecum/zkau/view/z_zad/dwnmed-0/0th/001-.2024-PM%20-%20CAMBIO%20LOGO%20ABBOTT%20Y%20DT%20-%20FADA%20TRAMADOL.pdf"
+    }
+  },
+  "clinical": {
+    "class": null,
+    "mechanism": null,
+    "pharmacodynamics": null,
+    "pharmacokinetics": null,
+    "dosing": null,
+    "preparation": null,
+    "metabolism": null,
+    "elimination": null,
+    "adverse_effects": null,
+    "icu_alerts": null,
+    "renal_adjustment": null,
+    "hepatic_adjustment": null,
+    "interactions": null
+  },
+  "flowboard": {
+    "operational_preset": null,
+    "infographics": [],
+    "expanded_card_ready": false
+  },
+  "sources": [
+    {
+      "name": "ANMAT/PAMI VNM",
+      "status": "validated",
+      "verified_at": "2026-09-07"
+    }
+  ]
+}

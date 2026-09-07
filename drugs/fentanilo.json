@@ -1,0 +1,124 @@
+{
+  "schema": "flowboard.vademecum.drug.v1",
+  "id": "fentanilo",
+  "name": "Fentanilo",
+  "updated_at": "2026-09-07",
+  "status": "anmat_validated_cima_iqb_pending",
+  "verification": {
+    "anmat": {
+      "status": "VALIDATED",
+      "date": "2026-09-07"
+    },
+    "cima": {
+      "status": "pending"
+    },
+    "iqb": {
+      "status": "pending"
+    }
+  },
+  "argentina": {
+    "selected_presentation": {
+      "certificate": "43324",
+      "generic": "FENTANILO 0.05 MG / ML",
+      "gtin": "07798016551182",
+      "laboratory": "PRODUCTOS FARMACEUTICOS DR GRAY S ACOM IND",
+      "pharmaceutical_form": "SOLUCION INYECTABLE",
+      "presentation": "100 AMPOLLA por 2 ML - USO HOSPITALARIO.",
+      "trade_name": "FENTANILO GRAY Sin conservadores"
+    },
+    "detail": {
+      "certificate": "43324",
+      "dispensing_condition": "BAJO RECETA OFICIAL Y DECRETO",
+      "generic_name": "FENTANILO",
+      "gtin": "07798016551182",
+      "laboratory": "PRODUCTOS FARMACEUTICOS DR GRAY S ACOM IND",
+      "pharmaceutical_form": "SOLUCION INYECTABLE",
+      "presentation": "100 AMPOLLA por 2 ML - USO HOSPITALARIO.",
+      "route": "ENDOVENOSA / INTRAMUSCULAR",
+      "trade_name": "FENTANILO GRAY Sin conservadores",
+      "troquel": ""
+    },
+    "presentations_visible": [
+      {
+        "certificate": "50183",
+        "generic": "FENTANILO CITRATO (COMO BASE) 100 MCG",
+        "gtin": "07798016550673",
+        "laboratory": "PRODUCTOS FARMACEUTICOS DR GRAY S ACOM IND",
+        "pharmaceutical_form": "CARAMELO",
+        "presentation": "SOBRE por 5 UNIDADES",
+        "trade_name": "GRAY-F"
+      },
+      {
+        "certificate": "50183",
+        "generic": "FENTANILO CITRATO (COMO BASE) 400 MCG",
+        "gtin": "07798016550512",
+        "laboratory": "PRODUCTOS FARMACEUTICOS DR GRAY S ACOM IND",
+        "pharmaceutical_form": "CARAMELO",
+        "presentation": "SOBRE por 5 UNIDADES",
+        "trade_name": "GRAY-F"
+      },
+      {
+        "certificate": "43324",
+        "generic": "FENTANILO 0.05 MG / ML",
+        "gtin": "07798016551182",
+        "laboratory": "PRODUCTOS FARMACEUTICOS DR GRAY S ACOM IND",
+        "pharmaceutical_form": "SOLUCION INYECTABLE",
+        "presentation": "100 AMPOLLA por 2 ML - USO HOSPITALARIO.",
+        "trade_name": "FENTANILO GRAY Sin conservadores"
+      },
+      {
+        "certificate": "58010",
+        "generic": "FENTANILO 100 MCG",
+        "gtin": "07795326000119",
+        "laboratory": "IVAX ARGENTINA SOCIEDAD ANONIMA",
+        "pharmaceutical_form": "COMPRIMIDO DE DISOLUCION BUCAL",
+        "presentation": "BLISTER por 28 UNIDADES",
+        "trade_name": "FENTORA"
+      },
+      {
+        "certificate": "58010",
+        "generic": "FENTANILO 200 MCG",
+        "gtin": "07795326000126",
+        "laboratory": "IVAX ARGENTINA SOCIEDAD ANONIMA",
+        "pharmaceutical_form": "COMPRIMIDO DE DISOLUCION BUCAL",
+        "presentation": "BLISTER por 28 UNIDADES",
+        "trade_name": "FENTORA"
+      }
+    ],
+    "result_count_visible": 10,
+    "result_count_relevant": 5,
+    "total_size_vnm": 36,
+    "prospect": {
+      "absolute_url": "https://servicios.pami.org.ar/vademecum/zkau/view/z_6bd/dwnmed-0/u2e/Prospecto%20comercializado%20-%20fentanilo.pdf",
+      "captured_at": "2026-09-07T15:51:00.260Z",
+      "relative_url": "/vademecum/zkau/view/z_6bd/dwnmed-0/u2e/Prospecto%20comercializado%20-%20fentanilo.pdf"
+    }
+  },
+  "clinical": {
+    "class": null,
+    "mechanism": null,
+    "pharmacodynamics": null,
+    "pharmacokinetics": null,
+    "dosing": null,
+    "preparation": null,
+    "metabolism": null,
+    "elimination": null,
+    "adverse_effects": null,
+    "icu_alerts": null,
+    "renal_adjustment": null,
+    "hepatic_adjustment": null,
+    "interactions": null
+  },
+  "flowboard": {
+    "operational_preset": null,
+    "infographics": [],
+    "expanded_card_ready": false
+  },
+  "sources": [
+    {
+      "name": "ANMAT/PAMI VNM",
+      "status": "validated",
+      "verified_at": "2026-09-07"
+    }
+  ]
+}
